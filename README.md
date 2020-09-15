@@ -1,6 +1,6 @@
 # Playground
 
-## Christopher Chen
+### Christopher Chen
 
 A place to play with `git`.
 
