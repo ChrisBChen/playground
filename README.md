@@ -3,8 +3,6 @@
 ## CS107
 ### Christopher Chen
 
-I am a rising senior.
-
 A place to play with `git`.
 
 Courses:
