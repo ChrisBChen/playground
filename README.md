@@ -1,6 +1,7 @@
 # Playground
 
 ## CS107
+### Christopher Chen
 
 A place to play with `git`.
 
